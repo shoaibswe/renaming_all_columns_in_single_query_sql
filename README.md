@@ -1,0 +1,1 @@
+# renaming_all_columns_in_single_query_sql
